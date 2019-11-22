@@ -6,8 +6,8 @@ Weight: Book
 Copyright: Copyright (c) Altinn. All rights reserved.
 Version: 2.00
 ItalicAngle: 0
-UnderlinePosition: -153.6
-UnderlineWidth: 51.2
+UnderlinePosition: -153
+UnderlineWidth: 51
 Ascent: 782
 Descent: 242
 InvalidEm: 0
@@ -17,13 +17,13 @@ Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 976 -1802971697 18805]
 StyleMap: 0x0040
-FSType: 4
-OS2Version: 3
+FSType: 0
+OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1462909513
-ModificationTime: 1574320121
-PfmFamily: 17
+ModificationTime: 1574419642
+PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 88
