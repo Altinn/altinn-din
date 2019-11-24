@@ -42,6 +42,8 @@ Altinn-DIN currently provides the following Unicode coverage:
 
 This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL-1.1.txt).
 
+[FontForge](https://github.com/fontforge/fontforge) is used for editing the Altinn-DIN sfd source files and generating fonts.
+
 Copyright © 2019 Altinn https://github.com/Altinn/altinn-din  
 Copyright © 2017 Datto Inc. https://www.datto.com/fonts/d-din
 
@@ -54,5 +56,5 @@ Design: Charles Nix (Monotype).
 
 ## ChangeLog
 
-- 2019-11-20 - v2.0: Renamed D-DIN to Altinn-DIN to be able to do modifications.
+- 2019-11-20 - v2.0: Renamed D-DIN to Altinn-DIN to be able to do minor modifications.
 - 2017-10-26 - v1.0: First public release
