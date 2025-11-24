@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Altinn-DIN is not maintained. Please use and contribute to [DINish](https://github.com/playbeing/dinish) instead.
+
 ![Altinn-DIN](altinn-din.png "Altinn-DIN")
 
 The [Altinn-DIN](https://github.com/Altinn/altinn-din) font is based on Datto [D-DIN](https://www.datto.com/fonts/d-din).
